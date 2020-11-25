@@ -1,6 +1,6 @@
 # Övning
 
-I denna övning ska du göra ett bibliotek av barnböcker. Du hittar en JSON-fil med böcker i mappen ```assets``` som du kan importera med ```import books from '../assets/childrensbooks.json';```. Du ska enbart använda dig av funktionella komponenter med React Hooks.
+I denna övning ska du göra ett bibliotek av barnböcker. Du hittar en JSON-fil med böcker i mappen ```assets```. Du ska enbart använda dig av funktionella komponenter med React Hooks.
 
 Figmaskiss: https://www.figma.com/file/lm4l7OViUO8ypfQn9IBG91/Mini-Library?node-id=2%3A41
 
